@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 719f156383cc98e4a82671ed4a8b31f0, type: 3}
+  m_Name: Scientist
+  m_EditorClassIdentifier: 
+  FirstName: John
+  LastName: Doe
+  Thumbnail: {fileID: 21300000, guid: 46bf1d3a3a4e7a843adf9257a10ce41a, type: 3}
+  MainImage: {fileID: 21300000, guid: ae8154780bd1af24caca89db3e95486d, type: 3}
+  Logo: {fileID: 0}
+  Profession: Scientist
+  VisitorType: 0
+  CardImage: {fileID: 21300000, guid: 8fa6a8cdc14a7044e83c4e795b9079cd, type: 3}
+  Fake: 0
